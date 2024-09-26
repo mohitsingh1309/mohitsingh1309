@@ -1,10 +1,10 @@
-# Hi there, I'm LEO! 👋
+# Hi there, I'm MOHIT SINGH! 👋
 
 ### About Me
-- 🌱 I’m currently learning **React.js and Git**
+- 🌱 I’m currently learning **React.js, Git, AI, and Cybersecurity**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Java, Python, PHP, HTML, CSS, C, C++, and Web Development**
-- 📫 How to reach me: [mohitsingh.exe@gmail.com](mailto:mohitsingh.exe@gmail.com)
+- 💬 Ask me about **Java, Python, PHP, HTML, CSS, C, C++, Web Development, App Development, and Android Development**
+- 📫 How to reach me: [try.mohit1309@gmail.com](mailto:try.mohit1309@gmail.com)
 
 ### Skills
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -17,12 +17,11 @@
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ### Projects
-- [Project 1](https://github.com/yourusername/project1): A brief description of what this project does.
+- [Hospital Management System](https://github.com/mohitsingh1309/hospital_management): A comprehensive hospital management system that streamlines patient registration, appointment scheduling, and medical record management.
 - [Project 2](https://github.com/yourusername/project2): A brief description of what this project does.
 
 ### Contributions
 ![Your contribution graph](https://github.com/yourusername?tab=overview&from=2024-01-01&to=2024-12-31)
-
 
 <!---
 mohitsingh1309/mohitsingh1309 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
