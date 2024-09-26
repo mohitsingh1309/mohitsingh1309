@@ -18,10 +18,7 @@
 
 ### Projects
 - [Hospital Management System](https://github.com/mohitsingh1309/hospital_management): A comprehensive hospital management system that streamlines patient registration, appointment scheduling, and medical record management.
-- [Project 2](https://github.com/yourusername/project2): A brief description of what this project does.
 
-### Contributions
-![Your contribution graph](https://github.com/yourusername?tab=overview&from=2024-01-01&to=2024-12-31)
 
 <!---
 mohitsingh1309/mohitsingh1309 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
